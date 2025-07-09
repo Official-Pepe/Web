@@ -1,0 +1,32 @@
+# Site settings
+title: "Open Home Works Web"
+description: "Webiste für Open Home Works."
+author:
+  name: "Pepe"
+  
+
+# URL settings
+baseurl: "https://official-pepe.github.io/Web/" # z.B. /web falls die Seite unter /web laufen soll, sonst leer lassen
+url: "https://official-pepe.github.io" # Passe ggf. auf deinen GitHub Pages-Link an
+
+# Build settings
+markdown: kramdown
+theme: minima # Du kannst auch ein anderes Theme wählen, z.B. beautiful-jekyll
+
+# Plugins (Standard für GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude folders/files from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Social
+github_username: Official-Pepeter
+
+# Weitere Einstellungen nach Bedarf
+# permalink: /:year/:title:output_ext
