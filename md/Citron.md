@@ -1,17 +1,16 @@
-![Citron(1)](C:\Users\Administrator\AppData\Roaming\marktext\images\347bb5a340e9e30eb4912a6eb20f1204f91d9166.png)
+![Citron(1)](Projects/Project-Citron/Banner.png)
 ------
 
 # Citron – Modular Smart Plant Care System
 
 **Citron** is a modular, open-source smart plant care ecosystem designed for flexibility, easy customization, and long-term compatibility. The system is built around several hardware modules, each with a dedicated function, allowing users to mix, match, and expand their setup as needed.
 
-> [!CAUTION]
 > EVERYTHING IS IN BETA OR NOT EVEN TESTET DOWNLOAD ANYTHING ON YOUR OWN HARM
 
 ## Key Features
 
 - **Modular Design:**  
-  Combine only the module s you need:
+  Combine only the module's you need:
   
   - **Citron A:** Central bridge/host (Makes its own wifi, and connects to the Plant nodes)
   - **Citron B:** Plant node (sensors, logic, optional pump control)
